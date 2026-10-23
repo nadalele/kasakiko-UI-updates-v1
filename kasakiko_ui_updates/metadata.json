@@ -1,0 +1,6 @@
+{
+  "name": "kasakiko",
+  "description": "Anonymous reviews of individual landlords. Read real tenant experiences, check Kasakiko scores, and unlock reviews by contributing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
